@@ -1,0 +1,48 @@
+html {
+  background-color: black;
+}
+
+body {
+  background-color: aquamarine;
+  border-radius: 200px;
+  width: 700px;
+  margin: 50px auto;
+  padding: 45px 150px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serifs;
+  border-color: whitesmoke;
+  border-style: solid;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  margin-top: 75px;
+  color: red;
+}
+
+p {
+  text-align: center;
+  margin: 5px auto;
+}
+.bigger {
+  font-size: 16px;
+}
+
+ul {
+  width: fit-content;
+  margin: 15px auto;
+}
+
+.header {
+  margin-top: 50px;
+}
+.line {
+  margin: auto;
+}
+a:hover {
+  text-transform: uppercase;
+}
+.line {
+  margin-top: 15px;
+}
